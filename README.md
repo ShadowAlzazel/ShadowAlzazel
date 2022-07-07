@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowAlzazel
 - 👀 I’m interested in ... Coding cool projects 
-- 🌱 I’m currently learning ... Spigot/Bukkit API for minecraft server plug in
+- 🌱 I’m currently learning ... Spigot/Bukkit API for minecraft server plug-ins using kotlin
 - 💞️ I’m looking to collaborate on ... creating a server side website 
 - 📫 How to reach me ... ShadowAlzazel@gmail.com
 <!---
