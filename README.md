@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowAlzazel
 - 👀 I’m interested in ... Coding cool projects 
-- 🌱 I’m currently learning ... Spigot/Bukkit API for minecraft server plug-ins using kotlin
+- 🌱 I’m currently learning ... Vue.js and Nuxt framework
 - 💞️ I’m looking to collaborate on ... machine learning
 - 📫 How to reach me ... ShadowAlzazel@gmail.com
 <!---
