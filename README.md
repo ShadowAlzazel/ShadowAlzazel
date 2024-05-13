@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadowAlzazel
 - 👀 I’m interested in ... Coding cool projects 
-- 🌱 I’m currently learning ... React Native
+- 🌱 I’m currently learning ... TensorFlow
 - 💞️ I’m looking to collaborate on ... Machine Learning
 - 📫 How to reach me ... ShadowAlzazel@gmail.com
 <!---
